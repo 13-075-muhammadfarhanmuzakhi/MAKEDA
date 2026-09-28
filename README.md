@@ -74,4 +74,4 @@ GitHub: [@13-075-muhammadfarhanmuzakhi](https://github.com/13-075-muhammadfarhan
 
 ---
 
-<p align="center">Dibangun dengan Kotlin Multiplatform & Compose Multiplatform ❤️</p>
+<p align="center">Dibangun dengan Kotlin Multiplatform & Compose Multiplatform </p>
