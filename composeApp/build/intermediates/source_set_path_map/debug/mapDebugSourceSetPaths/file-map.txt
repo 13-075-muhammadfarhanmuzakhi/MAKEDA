@@ -1,0 +1,51 @@
+com.farhanrr.makeda.composeApp-activity-1.9.2-0 C:\Users\A s u s\.gradle\caches\transforms-4\03ecef7273c1a3059c9c1e36de06e5af\transformed\activity-1.9.2\res
+com.farhanrr.makeda.composeApp-lifecycle-livedata-core-2.8.5-1 C:\Users\A s u s\.gradle\caches\transforms-4\06bcdf510160098fba0d4612b53dbd1b\transformed\lifecycle-livedata-core-2.8.5\res
+com.farhanrr.makeda.composeApp-lifecycle-runtime-ktx-release-2 C:\Users\A s u s\.gradle\caches\transforms-4\07a16bea57e7644244e0adbdbbf6c8da\transformed\lifecycle-runtime-ktx-release\res
+com.farhanrr.makeda.composeApp-animation-core-release-3 C:\Users\A s u s\.gradle\caches\transforms-4\0e9b69fd693d684e4fff449352fc153f\transformed\animation-core-release\res
+com.farhanrr.makeda.composeApp-coil-base-2.7.0-4 C:\Users\A s u s\.gradle\caches\transforms-4\115f394be8344502aa1dbe24e7ccb42f\transformed\coil-base-2.7.0\res
+com.farhanrr.makeda.composeApp-material-icons-core-release-5 C:\Users\A s u s\.gradle\caches\transforms-4\1c350ac08fe263a692d84eb1cc39c5dd\transformed\material-icons-core-release\res
+com.farhanrr.makeda.composeApp-foundation-layout-release-6 C:\Users\A s u s\.gradle\caches\transforms-4\1c44a5df511ad57c6cd38171fbe2244a\transformed\foundation-layout-release\res
+com.farhanrr.makeda.composeApp-emoji2-1.3.0-7 C:\Users\A s u s\.gradle\caches\transforms-4\1d0098faf5b4b04018fbb9676c8777dd\transformed\emoji2-1.3.0\res
+com.farhanrr.makeda.composeApp-activity-compose-1.9.2-8 C:\Users\A s u s\.gradle\caches\transforms-4\4550df09587ff60ff2f2dc122a69f1a8\transformed\activity-compose-1.9.2\res
+com.farhanrr.makeda.composeApp-ui-text-release-9 C:\Users\A s u s\.gradle\caches\transforms-4\48d834578304c2b06b3ef1f974955edb\transformed\ui-text-release\res
+com.farhanrr.makeda.composeApp-ui-geometry-release-10 C:\Users\A s u s\.gradle\caches\transforms-4\51d1f1d998eac511630ba243f380ac03\transformed\ui-geometry-release\res
+com.farhanrr.makeda.composeApp-graphics-path-1.0.1-11 C:\Users\A s u s\.gradle\caches\transforms-4\56551d3712cd0fdcebf0b746823faca6\transformed\graphics-path-1.0.1\res
+com.farhanrr.makeda.composeApp-core-bundle-debug-12 C:\Users\A s u s\.gradle\caches\transforms-4\5d9f6f9ae39381b36f17e36840df2239\transformed\core-bundle-debug\res
+com.farhanrr.makeda.composeApp-animation-release-13 C:\Users\A s u s\.gradle\caches\transforms-4\5dba4ad2e1727616f8e66ba9c8eadef2\transformed\animation-release\res
+com.farhanrr.makeda.composeApp-lifecycle-runtime-compose-release-14 C:\Users\A s u s\.gradle\caches\transforms-4\5df7bb90cd4e7b656a1a9101708e0a9a\transformed\lifecycle-runtime-compose-release\res
+com.farhanrr.makeda.composeApp-lifecycle-viewmodel-release-15 C:\Users\A s u s\.gradle\caches\transforms-4\692f3fce00125e0450f22a7597dd0843\transformed\lifecycle-viewmodel-release\res
+com.farhanrr.makeda.composeApp-foundation-release-16 C:\Users\A s u s\.gradle\caches\transforms-4\6d18189fd974b22b6138ea97906837c1\transformed\foundation-release\res
+com.farhanrr.makeda.composeApp-material3-release-17 C:\Users\A s u s\.gradle\caches\transforms-4\6e1da367f6650ed50ee807159de1b0af\transformed\material3-release\res
+com.farhanrr.makeda.composeApp-lifecycle-viewmodel-compose-release-18 C:\Users\A s u s\.gradle\caches\transforms-4\7ccdb7028af5b174e5db7348bad40704\transformed\lifecycle-viewmodel-compose-release\res
+com.farhanrr.makeda.composeApp-ui-release-19 C:\Users\A s u s\.gradle\caches\transforms-4\800b76eb1dd88618e8a8ad618cb03c12\transformed\ui-release\res
+com.farhanrr.makeda.composeApp-lifecycle-viewmodel-savedstate-2.8.5-20 C:\Users\A s u s\.gradle\caches\transforms-4\86c1898b421261cb48d6d4bca0dfe10d\transformed\lifecycle-viewmodel-savedstate-2.8.5\res
+com.farhanrr.makeda.composeApp-runtime-release-21 C:\Users\A s u s\.gradle\caches\transforms-4\876bf93ec40c27b86574ef2fd62b488c\transformed\runtime-release\res
+com.farhanrr.makeda.composeApp-ui-graphics-release-22 C:\Users\A s u s\.gradle\caches\transforms-4\87f0ae190fb60643c4db26f1505ab65b\transformed\ui-graphics-release\res
+com.farhanrr.makeda.composeApp-savedstate-1.2.1-23 C:\Users\A s u s\.gradle\caches\transforms-4\88a57c66f02e97644016690554a87508\transformed\savedstate-1.2.1\res
+com.farhanrr.makeda.composeApp-startup-runtime-1.1.1-24 C:\Users\A s u s\.gradle\caches\transforms-4\8d19d76ebdc662c5c4f479b4ad9bb56f\transformed\startup-runtime-1.1.1\res
+com.farhanrr.makeda.composeApp-ui-util-release-25 C:\Users\A s u s\.gradle\caches\transforms-4\9888dca3eb05f44f01cfb47b525d7b5d\transformed\ui-util-release\res
+com.farhanrr.makeda.composeApp-material-ripple-release-26 C:\Users\A s u s\.gradle\caches\transforms-4\a933f48158743f08abd0b3a61b1aeab6\transformed\material-ripple-release\res
+com.farhanrr.makeda.composeApp-lifecycle-process-2.8.5-27 C:\Users\A s u s\.gradle\caches\transforms-4\adc7c389b0a0f1deb449e0742a6da457\transformed\lifecycle-process-2.8.5\res
+com.farhanrr.makeda.composeApp-activity-ktx-1.9.2-28 C:\Users\A s u s\.gradle\caches\transforms-4\aec766b1dc29f0c145adb43a9ef95c44\transformed\activity-ktx-1.9.2\res
+com.farhanrr.makeda.composeApp-appcompat-resources-1.6.1-29 C:\Users\A s u s\.gradle\caches\transforms-4\babb1818f5bef21296e27062ed979d8d\transformed\appcompat-resources-1.6.1\res
+com.farhanrr.makeda.composeApp-runtime-saveable-release-30 C:\Users\A s u s\.gradle\caches\transforms-4\bc1c1295e8764efeef4176b983368033\transformed\runtime-saveable-release\res
+com.farhanrr.makeda.composeApp-customview-poolingcontainer-1.0.0-31 C:\Users\A s u s\.gradle\caches\transforms-4\c19f6acf92af88dc7e265d01b08004e0\transformed\customview-poolingcontainer-1.0.0\res
+com.farhanrr.makeda.composeApp-profileinstaller-1.3.1-32 C:\Users\A s u s\.gradle\caches\transforms-4\c6c4040f6c42f998446e862da3257b34\transformed\profileinstaller-1.3.1\res
+com.farhanrr.makeda.composeApp-ui-unit-release-33 C:\Users\A s u s\.gradle\caches\transforms-4\da1062a396c1b33c210174ee76a53ec8\transformed\ui-unit-release\res
+com.farhanrr.makeda.composeApp-ui-tooling-preview-release-34 C:\Users\A s u s\.gradle\caches\transforms-4\dc4e95df20d7dd1015dfe71ab735cec5\transformed\ui-tooling-preview-release\res
+com.farhanrr.makeda.composeApp-core-ktx-1.13.1-35 C:\Users\A s u s\.gradle\caches\transforms-4\df33f43a9e1e60b549e7d0ac5a4ef93f\transformed\core-ktx-1.13.1\res
+com.farhanrr.makeda.composeApp-savedstate-ktx-1.2.1-36 C:\Users\A s u s\.gradle\caches\transforms-4\e347cf907316c1312099fc1455308732\transformed\savedstate-ktx-1.2.1\res
+com.farhanrr.makeda.composeApp-lifecycle-runtime-release-37 C:\Users\A s u s\.gradle\caches\transforms-4\e4886bdb49997d0159f3de62f95bdfa9\transformed\lifecycle-runtime-release\res
+com.farhanrr.makeda.composeApp-core-runtime-2.2.0-38 C:\Users\A s u s\.gradle\caches\transforms-4\e53d6e718c2c9a900ed54b352a226623\transformed\core-runtime-2.2.0\res
+com.farhanrr.makeda.composeApp-material-icons-extended-release-39 C:\Users\A s u s\.gradle\caches\transforms-4\ea08d5d8a853cdc492f704389f193811\transformed\material-icons-extended-release\res
+com.farhanrr.makeda.composeApp-core-1.13.1-40 C:\Users\A s u s\.gradle\caches\transforms-4\ee5d8f9374a4b793513598f3aafb675c\transformed\core-1.13.1\res
+com.farhanrr.makeda.composeApp-annotation-experimental-1.4.1-41 C:\Users\A s u s\.gradle\caches\transforms-4\f30cdbd424d706af0be4152ba7eb65a5\transformed\annotation-experimental-1.4.1\res
+com.farhanrr.makeda.composeApp-lifecycle-viewmodel-ktx-2.8.5-42 C:\Users\A s u s\.gradle\caches\transforms-4\fcd71daa8db7e19aa455e6bd630b883f\transformed\lifecycle-viewmodel-ktx-2.8.5\res
+com.farhanrr.makeda.composeApp-resValues-43 D:\makedanew\MAKEDA\composeApp\build\generated\res\resValues\debug
+com.farhanrr.makeda.composeApp-packageDebugResources-44 D:\makedanew\MAKEDA\composeApp\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.farhanrr.makeda.composeApp-packageDebugResources-45 D:\makedanew\MAKEDA\composeApp\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.farhanrr.makeda.composeApp-debug-46 D:\makedanew\MAKEDA\composeApp\build\intermediates\merged_res\debug\mergeDebugResources
+com.farhanrr.makeda.composeApp-androidDebug-47 D:\makedanew\MAKEDA\composeApp\src\androidDebug\res
+com.farhanrr.makeda.composeApp-androidMain-48 D:\makedanew\MAKEDA\composeApp\src\androidMain\res
+com.farhanrr.makeda.composeApp-debug-49 D:\makedanew\MAKEDA\composeApp\src\debug\res
+com.farhanrr.makeda.composeApp-main-50 D:\makedanew\MAKEDA\composeApp\src\main\res
