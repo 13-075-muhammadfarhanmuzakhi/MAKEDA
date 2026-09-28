@@ -1,0 +1,24 @@
+package com.farhanrr.makeda.util
+
+import kotlinx.datetime.LocalDate
+import kotlinx.datetime.LocalDateTime
+import kotlinx.datetime.TimeZone
+import kotlinx.datetime.toInstant
+
+fun formatRupiah(amount: Long): String {
+    val negative = amount < 0
+    val s = (if (negative) -amount else amount).toString()
+    val sb = StringBuilder()
+    var count = 0
+    for (i in s.length - 1 downTo 0) {
+        sb.append(s[i])
+        count++
+        if (count % 3 == 0 && i != 0) sb.append('.')
+    }
+    return (if (negative) "-Rp " else "Rp ") + sb.reverse().toString()
+}
+
+fun epochMillisOf(date: LocalDate, hour: Int, minute: Int): Long {
+    val dateTime = LocalDateTime(date.year, date.month, date.dayOfMonth, hour, minute)
+    return dateTime.toInstant(TimeZone.currentSystemDefault()).toEpochMilliseconds()
+}
